@@ -57,36 +57,36 @@
             <div class="team-member">
                 <img src="assets/images/team/female_dp.jpg" alt="Team Member 1">
                 <div class="team-member-details">
-                    <p>Name: Asiimwe Julian</p>
-                    <p>Reg Number: 17/U/3029/EVE</p>
+                    <p>Name: Person 1</p>
+                    <p>Reg Number: 001</p>
                 </div>
             </div>
             <div class="team-member">
                 <img src="assets/images/team/female_dp.jpg" alt="Team Member 2">
                 <div class="team-member-details">
-                    <p>Name: Nasaazi Takia</p>
-                    <p>Reg Number: 22/U/6674</p>
+                    <p>Name: Person 2</p>
+                    <p>Reg Number: 002</p>
                 </div>
             </div>
             <div class="team-member">
                 <img src="assets/images/team/male_dp.png" alt="Team Member 3">
                 <div class="team-member-details">
-                    <p>Name: Niwamanya James</p>
-                    <p>Reg Number: 22/U/21791/EVE</p>
+                    <p>Name: Person 3</p>
+                    <p>Reg Number: 003</p>
                 </div>
             </div>
             <div class="team-member">
                 <img src="assets/images/team/male_dp.png" alt="Team Member 4">
                 <div class="team-member-details">
-                    <p>Name: Etyang Simon Peter</p>
-                    <p>Reg Number: 19/U/9043/EVE</p>
+                    <p>Name: Person 4</p>
+                    <p>Reg Number: 004</p>
                 </div>
             </div>
             <div class="team-member">
                 <img src="assets/images/team/male_dp.png" alt="Team Member 5">
                 <div class="team-member-details">
-                    <p>Name: Aine Levi</p>
-                    <p>Reg Number: 22/U/2903/EVE</p>
+                    <p>Name: Prson 5</p>
+                    <p>Reg Number: 005</p>
                 </div>
             </div>
         </div>
